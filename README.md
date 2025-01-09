@@ -1,4 +1,4 @@
-# Full Stack Snake.js - Day One of 30 Days of Full Stack Projects
+# SupaSnake.js | Project #1 in [Geaux Code 30 Projects](https://github.com/GeauxWeisbeck4/geaux-code-30-projects)
 
 This version of Snake was built with React, TypeScript, TailwindCSS, Vite, and Supabase.
 
